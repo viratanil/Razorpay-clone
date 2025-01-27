@@ -45,8 +45,8 @@ The Razorpay Clone project is a front-end UI recreation of the Razorpay payment 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/razorpay-clone.git
-   cd razorpay-clone
+   git clone https://github.com/viratanil/Razorpay-clone
+   cd Razorpay-clone
    ```
 
 Feel free to tweak this template to match your project's specifics! Let me know if you need additional details or edits.
